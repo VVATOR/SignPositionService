@@ -40,7 +40,7 @@ public class Runner {
 
 		try {
 
-			URL url = new URL("http://localhost:1380/RoadStatusService-impl/sign/3");
+			URL url = new URL("http://localhost:1380/SignPositionService-impl/sign/3");
 			HttpURLConnection conn = (HttpURLConnection) url.openConnection();
 			conn.setRequestMethod("GET");
 			conn.setRequestProperty("Accept", "application/json");

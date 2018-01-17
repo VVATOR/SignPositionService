@@ -67,7 +67,7 @@
 
 		<!-- <dependency> -->
 		<!-- <groupId>by.gsu</groupId> -->
-		<!-- <artifactId>RoadStatusService-impl</artifactId> -->
+		<!-- <artifactId>SignPositionService-impl</artifactId> -->
 		<!-- <version>1.0</version> -->
 
 		<!-- </dependency> -->

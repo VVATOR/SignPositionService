@@ -11,7 +11,7 @@
 	<!-- так должен выглядеть адекватный конфиг спринга -->
 
 	<!-- опишем контекст поиска компонентов (базовый пакет) -->
-	<context:component-scan base-package="by.gsu.RoadStatusService" />
+	<context:component-scan base-package="by.gsu.SignPositionService" />
 
 	<!-- тут напишем спрингу чтобы он автоматом шаблонизировал пути к вьюхам 
 		приложения -->
